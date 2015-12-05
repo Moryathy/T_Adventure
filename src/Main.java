@@ -5,5 +5,12 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
-
+	public void plusOne() {
+		int x = 0;
+		x++;
+		System.out.println(x);
+		
+		
+	}
 }
+//adsadsadfsads
